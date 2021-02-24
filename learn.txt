@@ -1,0 +1,26 @@
+rustup update stable
+rustc : compiler
+cargo
+
+
+
+rustc hello.rs
+
+./hello
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
