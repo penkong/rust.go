@@ -1,12 +1,57 @@
 rustup update stable
 rustc : compiler
-cargo
+cargo : package manager
 
 
 
 rustc hello.rs
 
 ./hello
+
+you make src folder 
+if it is app name file main.rs
+if it is library name file lib.rs
+
+
+then out of src make 
+Cargo.toml 
+like package.json
+
+
+then rather than use rustc 
+we use 
+cargo build 
+it produce cargo.lock and 
+target folder 
+
+
+cargo run 
+
+
+
+for start again
+third
+
+cargo new <name of pacakge> or with --bin
+
+
+---------------------------
+
+Numbers on computer :
+
+---------------------------
+
+
+println!('') is a macro
+
+
+
+
+
+
+
+
+
 
 
 
